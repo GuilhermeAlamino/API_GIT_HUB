@@ -4,10 +4,10 @@ $full_name = $_GET['full_name'];
 
 $header = [
     "User-Agent: api git",
-    //token blackpar.co
-    // "Authorization: token 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"
+    //token associação
+    // "Authorization: token #Personal access tokens#"
     //token pessoal
-    "Authorization: token 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"
+    "Authorization: token #Personal access tokens#"
 ];
 
 
